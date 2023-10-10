@@ -1,2 +1,2 @@
-# Lista1_pweb2
+# Lista1
 Primeira lista da disciplina de Programação Web 2
